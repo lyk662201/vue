@@ -1,5 +1,5 @@
 {
-  "name": "my-project",
+  "name": "vue",
   "version": "2.0.0",
   "description": "A Vue.js project",
   "author": "lyk662201 <13536622201@163.com>",
@@ -64,6 +64,8 @@
     "selenium-server": "^3.0.1",
     "semver": "^5.3.0",
     "shelljs": "^0.7.6",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2",
     "uglifyjs-webpack-plugin": "^1.1.1",
     "url-loader": "^0.5.8",
     "vue-jest": "^1.0.2",
